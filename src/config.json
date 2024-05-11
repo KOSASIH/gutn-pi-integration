@@ -1,0 +1,27 @@
+{
+  "sensor_modules": [
+    {
+      "module": "temperature_sensor",
+      "options": {
+        "poll_interval": 10
+      }
+    }
+  ],
+  "ai_ml_components": [
+    {
+      "module": "temperature_threshold",
+      "options": {
+        "threshold": 30
+      }
+    }
+  ],
+  "communication_protocols": [
+    {
+      "module": "mqtt_communication",
+      "options": {
+        "server_url": "mqtt.example.com",
+        "topic": "gutn_pi_integration/data"
+      }
+    }
+  ]
+}
