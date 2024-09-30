@@ -1,3 +1,8 @@
+[![Pi Network](https://img.shields.io/badge/Pi%20Network-Pi%20Network-blue.svg)](https://minepi.com/)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-RPi-red.svg)](https://www.raspberrypi.com/)
+[![Raspberry Pi Zero](https://img.shields.io/badge/Raspberry%20Pi%20Zero-RPi%20Zero-green.svg)](https://www.raspberrypi.com/products/raspberry-pi-zero/)
+[![Epaper Badge](https://img.shields.io/badge/Epaper%20Badge-Epaper%20Badge-orange.svg)](https://medium.com/coinmonks/building-an-epaper-badge-with-a-raspberry-pi-zero-e4b98b3311c3) 
+
 # gutn-pi-integration
 This repository contains the source code for the Global Unified Transportation Network (GUTN) project, which integrates various public transportation ticket payment systems with the Pi Network. The codebase includes modules for user authentication, ticket purchasing, itinerary management, and real-time transportation updates. 
 
