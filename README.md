@@ -3,38 +3,6 @@
 [![Raspberry Pi Zero](https://img.shields.io/badge/Raspberry%20Pi%20Zero-RPi%20Zero-green.svg)](https://www.raspberrypi.com/products/raspberry-pi-zero/)
 [![Epaper Badge](https://img.shields.io/badge/Epaper%20Badge-Epaper%20Badge-orange.svg)](https://medium.com/coinmonks/building-an-epaper-badge-with-a-raspberry-pi-zero-e4b98b3311c3) 
 
-<!-- International Transportation Organizations -->
-[![IATA](https://img.shields.io/badge/IATA-Transportation-blue.svg)](https://github.com/IATA/openapi)
-[![IMO](https://img.shields.io/badge/IMO-Maritime-blue.svg)](https://github.com/IMO/imo-api)
-[![ICAO](https://img.shields.io/badge/ICAO-Aviation-blue.svg)](https://github.com/ICAO/api)
-[![ISO](https://img.shields.io/badge/ISO-Standardization-blue.svg)](https://github.com/ISO/iso-api)
-[![WCO](https://img.shields.io/badge/WCO-Customs-blue.svg)](https://github.com/WCO/wco-api)
-[![FAA](https://img.shields.io/badge/FAA-Aviation-blue.svg)](https://github.com/FAA/faa-api)
-[![EASA](https://img.shields.io/badge/EASA-Aviation-blue.svg)](https://github.com/EASA/easa-api)
-
-<!-- International Finance Organizations -->
-[![IMF](https://img.shields.io/badge/IMF-Finance-blue.svg)](https://github.com/imf/open-data)
-[![World Bank](https://img.shields.io/badge/World%20Bank-Finance-blue.svg)](https://github.com/worldbank/open-data)
-[![BIS](https://img.shields.io/badge/BIS-Finance-blue.svg)](https://github.com/bis-api/bis-api)
-[![ECB](https://img.shields.io/badge/ECB-Finance-blue.svg)](https://github.com/ecb/ecb-api)
-[![ADB](https://img.shields.io/badge/ADB-Finance-blue.svg)](https://github.com/adb/adb-api)
-[![OECD](https://img.shields.io/badge/OECD-Finance-blue.svg)](https://github.com/oecd/oecd-api)
-
-<!-- Institutions -->
-[![MIT](https://img.shields.io/badge/MIT-Education-blue.svg)](https://github.com/mit)
-[![Stanford](https://img.shields.io/badge/Stanford-Education-blue.svg)](https://github.com/stanford)
-[![UC Berkeley](https://img.shields.io/badge/UC%20Berkeley-Education-blue.svg)](https://github.com/ucberkeley)
-[![Harvard](https://img.shields.io/badge/Harvard-Education-blue.svg)](https://github.com/harvard)
-[![Oxford](https://img.shields.io/badge/Oxford-Education-blue.svg)](https://github.com/oxford)
-[![Columbia](https://img.shields.io/badge/Columbia-Education-blue.svg)](https://github.com/columbia)
-
-<!-- Technology Companies -->
-[![Google](https://img.shields.io/badge/Google-Tech-blue.svg)](https://github.com/google)
-[![Microsoft](https://img.shields.io/badge/Microsoft-Tech-blue.svg)](https://github.com/microsoft)
-[![Amazon](https://img.shields.io/badge/Amazon-Tech-blue.svg)](https://github.com/amazon)
-[![Facebook](https://img.shields.io/badge/Facebook-Tech-blue.svg)](https://github.com/facebook)
-[![Apple](https://img.shields.io/badge/Apple-Tech-blue.svg)](https://github.com/apple)
-[![IBM](https://img.shields.io/badge/IBM-Tech-blue.svg)](https://github.com/ibm)
 
 <!-- Partnership Repos -->
 [![GUTN-Pi Integration](https://img.shields.io/badge/GUTN--Pi-Integration-blue.svg)](https://github.com/KOSASIH/gutn-pi-integration)
