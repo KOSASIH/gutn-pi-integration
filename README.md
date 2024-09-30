@@ -4,7 +4,6 @@
 [![Epaper Badge](https://img.shields.io/badge/Epaper%20Badge-Epaper%20Badge-orange.svg)](https://medium.com/coinmonks/building-an-epaper-badge-with-a-raspberry-pi-zero-e4b98b3311c3) 
 
 <!-- International Transportation Organizations -->
-<!-- International Transportation Organizations -->
 [![IATA](https://img.shields.io/badge/IATA-Transportation-blue.svg)](https://github.com/IATA/openapi)
 [![IMO](https://img.shields.io/badge/IMO-Maritime-blue.svg)](https://github.com/IMO/imo-api)
 [![ICAO](https://img.shields.io/badge/ICAO-Aviation-blue.svg)](https://github.com/ICAO/api)
@@ -39,11 +38,6 @@
 
 <!-- Partnership Repos -->
 [![GUTN-Pi Integration](https://img.shields.io/badge/GUTN--Pi-Integration-blue.svg)](https://github.com/KOSASIH/gutn-pi-integration)
-[![IATA-IMO API Gateway](https://img.shields.io/badge/IATA--IMO-API%20Gateway-blue.svg)](https://github.com/IATA-IMO/api-gateway)
-[![World Bank-MIT Open Data Initiative](https://img.shields.io/badge/World%20Bank--MIT-Open%20Data-blue.svg)](https://github.com/worldbank-mit/open-data-initiative)
-[![Google-MIT AI Research Partnership](https://img.shields.io/badge/Google--MIT-AI%20Research-blue.svg)](https://github.com/google-mit/ai-research-partnership)
-[![Amazon-MIT AI Research Partnership](https://img.shields.io/badge/Amazon--MIT-AI%20Research-blue.svg)](https://github.com/amazon-mit/ai-research-partnership)
-
 <!-- Code Badges -->
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/gutn-pi-integration">Global Unified Transportation Network ( GUTN )</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
